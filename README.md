@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Alper Yildirim
 - Bilkent University Computer Science
-- 4th year
